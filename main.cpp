@@ -10,7 +10,7 @@ void imprimir(int a[],int n);
 int main()
 {
 
-    int a[50],n;
+    int a[50],n;//asignamos 50 al array 
     cout<<"INGRESE EL TAMANIO:";
     cin>>n;
     ingresar(a,n);//*
